@@ -1,0 +1,34 @@
+GIT REPOSITORY
+
+git is called as repository hub where we can do projects for free
+
+go to google->github search->download the 64 bit->then cmd->git->git config --global user.name "our filename"
+-> git config --global user.email "our email"
+then go to git bash terminal...
+type the commands
+$git init
+$ git add .
+$ git status
+$ git commit -m "first command"
+go to the github page -> new repository-> sign in and add any name to your repository -> code-> copy link
+go to gitbash page
+$ git remote add origin link
+go to the git connect and sign in-> 2nd master-> add your file :)
+conclusion: collaborate your files with repositories
+
+
+week 3:
+agile: iteration process(feedback from customers), investors method will be less. eg: ecommerce app, tesla
+advantages(incomes are taken from customers, investing amount loss will be less, quality of project output)
+waterfall in software development: without customer feedback quality check to get better output
+process: user identification->splitting slices of time(prioritize the minimum work)
+methodologies:1.scrum(seperated by 3 team, collaborate for work)yesterday work result->plan for today work->goal for today
+3 team:owner(investment and maintain, monitoring), scrum master(scheduler),people
+2. extreme programming(more outcome)
+3. dynamic system and development method(uses structure for plan)
+4. lean and can(for minimizing the wastages)
+sprint(step by step process)
+product backlog(product document)
+intellectual property rights: tangiable(we can touch), intangiable(can't be touched)
+types: patent(new inventions register), copyright(permission), trademarks(logos permission), databases(programming codes), trade secret(process secret)
+expiry date of patent(20 years)
